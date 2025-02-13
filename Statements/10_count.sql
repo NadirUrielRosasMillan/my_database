@@ -1,0 +1,1 @@
+SELECT COUNT(surname) FROM users --cuenta los usuarios que tienen ese dato

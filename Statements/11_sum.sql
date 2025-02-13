@@ -1,0 +1,1 @@
+SELECT SUM(age) FROM users --Suma las edades de los usuarios

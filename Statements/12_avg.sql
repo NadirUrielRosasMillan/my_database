@@ -1,0 +1,1 @@
+SELECT AVG(age) FROM users --saca la media exacta de las edades en este caso 
