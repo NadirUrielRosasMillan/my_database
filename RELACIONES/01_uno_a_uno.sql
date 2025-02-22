@@ -1,0 +1,3 @@
+/*
+cada elemento de una tabla puede estar relacionado con un solo elemento de otra tabla y viceversa
+*/
